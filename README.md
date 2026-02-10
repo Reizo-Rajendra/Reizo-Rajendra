@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Reizo!<br><br>💻 Student | Developer in Progress<br>🎥 Content Creator<br>🚀 Suka ngoding, ngedesain, dan bikin konten seru<br>🛠️ HTML • CSS • PHP • JavaScript • UI/UX<br>🎮 Gaming & Tech Content<br>✨ Learning, Building, Creating.
+👋 Hi, I’m Reizo Rajendra Dianta!<br><br>💻 Student at SMKN 8 SEMARANG | Developer in Progress<br>🎥 Content Creator<br>🚀 Suka ngoding, ngedesain, dan bikin Konten<br>🛠️ HTML • CSS • PHP • JavaScript • UI/UX<br>🎮 Gaming & Tech Content<br>✨ Learning, Building, Creating.
 
 
 ## 🌐 Socials:
